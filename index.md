@@ -6,3 +6,6 @@ Please, enjoy your stay...
 ``` javascript
 var iGod = "I am the master!";
 ```
+- [x] Create the universe
+- [x] Master the universe
+- [ ] Relax
